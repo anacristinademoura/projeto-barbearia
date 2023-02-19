@@ -1,0 +1,45 @@
+body{
+    width: 600px;
+    margin: 0 auto;
+    background-color: #efefef;
+}
+div{
+    padding: 5px;
+    text-align: center;
+    font-family: Verdana;
+    margin: 0px;
+    color: gray;
+}
+img{
+    width: 190px;
+}
+h1{
+    border: 4px solid gray;
+    padding: 10px;
+    font-size: 22px;
+}
+h2{
+    font-size: 18px;
+    margin: 35px 0 25px 0;
+}
+h3{
+    border-top: 3px solid gray;
+    border-bottom: 3px solid gray;
+    padding: 10px;
+}
+p{
+    text-align: justify;
+    padding: 5px;
+    line-height: 27px;
+}
+span{
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+    background-color: rgb(71, 223, 71);
+    border-radius: 15px;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+}
